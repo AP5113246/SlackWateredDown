@@ -1,9 +1,6 @@
-# COMP1531 Major Project
+# COMP1531 Major Project - Flockr (Bare Bones Version of Slack with Front End provided by Course)
 
-## Changelog
 
-* 28-10: Adding password reset as routes not automatically auth checking
-* 29-10: 6.1 section updated with corrected types
 
 ## Contents
 
