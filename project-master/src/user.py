@@ -115,7 +115,7 @@ def user_profile_upload(token,image_url,x_start,y_start,x_end,y_end):
         raise InputError('End coordinates need to be >= to start coordinates')     
     if not hp.is_dimensions_correct(image_url,x_start,y_start,x_end,y_end):
         raise InputError('Coordinates are not within the dimensions of image at URL')
-        
+    # Check the helper.py file for specific implementation of the following functions
     filename = hp.get_filename(token)
     path = hp.download_jpg(image_url,filename)
     hp.crop_image(path,x_start,y_start,x_end,y_end)
