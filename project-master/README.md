@@ -4,7 +4,7 @@
 
 ## Content
 This is one of my first major COMP group assignments where we made the backend of a bare bones version of Slack (called Flockr in this instance).
-I did majority of the  work on the server.py server_test.py files, this initial structure and outline of the channel function and in user.py the user_profile_upload function.
+I did majority of the  work on the server.py server_test.py files, the initial structure and outline of the channel.py and channel_test.py and in user.py the user_profile_upload function.
 
 ## What I Learnt
 
