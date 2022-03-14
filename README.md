@@ -19,4 +19,4 @@ This project taught me a lot about using:
 
 
 ## Extra Notes
- README2.md in the project-master folder holds the assignment specifications if there was any curiousity about the finer details and requirements
+ README.md in the project-master folder holds the assignment specifications if there was any curiousity about the finer details and requirements
