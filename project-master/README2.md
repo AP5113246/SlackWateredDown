@@ -1,4 +1,4 @@
-# COMP1531 Major Project - Flockr (Bare Bones Version of Slack with Front End provided by Course)
+# Major Project - Flockr (Bare Bones Version of Slack with Front End provided by Course)
 
 
 
